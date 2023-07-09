@@ -32,6 +32,7 @@ My problem-solving mindset drives me to think critically and creatively about ho
     - 🌐 Eclipse (Proffesional)
     - 💻 Keil uVision (Basic)
     - ⌨️ Git (Basic)
+    - Proteus
 - **Microcontroller**⚙️
     - Arduino
     - AVR32
