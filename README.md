@@ -8,7 +8,7 @@ Hello there! 👋 I'm Abdelrahman Reda, a student studying Mechatronics at Manso
 
 ## About Me
 
-I am passionate about the automotive field and the intersection of technology and mobility. I am particularly fascinated by the challenges faced by the automotive industry and how embedded solutions can contribute to solving them.
+I am passionate about the automotive field 🚓 and the intersection of technology and mobility. I am particularly fascinated by the challenges faced by the automotive industry and how embedded solutions💡 can contribute to solving them🔍.
 
 Currently, I am focused on learning and expanding my knowledge in the field of embedded systems, with a specific focus on their applications in the automotive domain.
 
