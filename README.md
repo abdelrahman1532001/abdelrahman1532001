@@ -46,7 +46,7 @@ Here are a few projects I've worked on:
 
 ## Contact Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-reda-9a6767204/"><img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1697068800&v=beta&t=7UYFEl3GlBZbMCyOybv_64a_83PvBQCC9HIPWQnwYyk" alt="LinkedIn" width="30" height="30"></a>
 </div>
 
