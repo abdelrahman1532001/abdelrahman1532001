@@ -4,32 +4,38 @@
   <img src="https://media.licdn.com/dms/image/C4E03AQG3sJra1OqboQ/profile-displayphoto-shrink_800_800/0/1633002608874?e=1694649600&v=beta&t=qpbKzfOzYmP9LUmJaF1qIlpgkr-f5tlIO22ImwVtbj4" alt="Profile Image" width="200" height="200">
 </div>
 
-Hello there! 👋 I'm Abdelrahman Reda, a student studying Mechatronics at Mansoura University, expected to graduate next year.
+Hello there! 👋 I'm Abdelrahman Reda, a student studying Mechatronics at Mansoura University, expected to graduate 2024/2025.
 
 ## About Me
 
-As a Mechatronics student, I have a keen interest in the intersection of mechanical engineering, electronics, and programming. I enjoy working on projects that involve designing and building integrated systems that combine these disciplines.
+I am passionate about the automotive field and the intersection of technology and mobility. I am particularly fascinated by the challenges faced by the automotive industry and how embedded solutions can contribute to solving them.
 
-## Education
+Currently, I am focused on learning and expanding my knowledge in the field of embedded systems, with a specific focus on their applications in the automotive domain.
 
-- Bachelor's degree in Mechatronics, Mansoura University, Expected Graduation: [Year]
+Once I have a solid foundation in embedded systems, my next learning goal is to delve into Autosar. I am eager to gain a comprehensive understanding of Autosar's principles and implementation, and utilize it in developing efficient and reliable automotive solutions.
 
-## Skills
+Furthermore, I am also enthusiastic about computer vision and its potential applications in the automotive field. I aim to acquire expertise in computer vision techniques to contribute to advancements in areas such as driver assistance systems, object detection, and autonomous vehicles.
 
-- Programming: [Programming Language 1], [Programming Language 2]
-- Electronics: [Electronic Hardware], [Circuit Design]
-- Mechanical Design: [CAD Software], [Mechanical Components]
-- Control Systems: [Control Theory], [PID Controllers]
-- Robotics: [Robotic Systems], [ROS]
+My problem-solving mindset drives me to think critically and creatively about how embedded solutions can address the unique challenges faced by the automotive industry. I am passionate about finding innovative ways to improve safety, efficiency, and overall performance in the automotive field using embedded systems.
 
-## Projects
+## Education 🎓
+
+- Bachelor's degree in Mechatronics, Mansoura University, Expected Graduation: [2024/2025]
+
+## Skills 🚀
+
+- 💻 C (Professional)
+- 🐍 Python (Basics)
+- 📊 MATLAB (Basics)
+- ⚙️ Microcontroller Driver Development (AVR)
+- 🤖 ChatGPT
+
+## Big Projects 🚀
 
 Here are a few projects I've worked on:
 
-- [Project 1]: Brief description or key highlights.
-- [Project 2]: Brief description or key highlights.
-- [Project 3]: Brief description or key highlights.
-- ...
+- 📚 [Student System Project](https://github.com/your-username/student-system-repo)
+    - ⚙️ Tools: C language, Eclipse
 
 ## Contact Me
 
