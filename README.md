@@ -8,13 +8,13 @@ Hello there! 👋 I'm Abdelrahman Reda, a student studying Mechatronics at Manso
 
 ## About Me
 
-I am passionate about the automotive field 🚓 and the intersection of technology and mobility. I am particularly fascinated by the challenges faced by the automotive industry and how embedded solutions💡 can contribute to solving them🔍.
+I am passionate about the automotive field 🚓 and the intersection of technology and mobility. I am particularly fascinated by the challenges faced by the automotive industry and how embedded solutions💡can contribute to solving them🔍.
 
-Currently, I am focused on learning and expanding my knowledge in the field of embedded systems, with a specific focus on their applications in the automotive domain.
+Currently, I am focused on learning and expanding my knowledge in the field of embedded systems💻, with a specific focus on their applications in the automotive domain🚗.
 
 Once I have a solid foundation in embedded systems, my next learning goal is to delve into Autosar. I am eager to gain a comprehensive understanding of Autosar's principles and implementation, and utilize it in developing efficient and reliable automotive solutions.
 
-Furthermore, I am also enthusiastic about computer vision and its potential applications in the automotive field. I aim to acquire expertise in computer vision techniques to contribute to advancements in areas such as driver assistance systems, object detection, and autonomous vehicles.
+Furthermore, I am also enthusiastic about computer vision and its potential applications in the automotive field. I aim to acquire expertise in computer vision techniques👁️ to contribute to advancements in areas such as driver assistance systems, object detection, and autonomous vehicles.
 
 My problem-solving mindset drives me to think critically and creatively about how embedded solutions can address the unique challenges faced by the automotive industry. I am passionate about finding innovative ways to improve safety, efficiency, and overall performance in the automotive field using embedded systems.
 
