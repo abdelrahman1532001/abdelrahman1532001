@@ -49,8 +49,10 @@ Here are a few projects I've worked on:
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Ultrasonic, Motors
 - Line Follower (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, IR Sensors, Motors
-- Rc Car
+- Rc Car (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Bluetooth Module, Motors
+- 🤖 6DOF ARM Robot
+    ⚙️ Tools: Matlap script, Robotic tool box library, SolidWorks 
 
 ## Contact Me
 
