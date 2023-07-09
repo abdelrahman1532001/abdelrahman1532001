@@ -1,6 +1,6 @@
 ## Introduction
 
-<div align="center">
+<div align="left">
   <img src="https://media.licdn.com/dms/image/C4E03AQG3sJra1OqboQ/profile-displayphoto-shrink_800_800/0/1633002608874?e=1694649600&v=beta&t=qpbKzfOzYmP9LUmJaF1qIlpgkr-f5tlIO22ImwVtbj4" alt="Profile Image" width="200" height="200">
 </div>
 
