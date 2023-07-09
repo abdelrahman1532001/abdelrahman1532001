@@ -48,7 +48,7 @@ Here are a few projects I've worked on:
 
 <div align="center">
   <a href="mailto:your-email@example.com"><img src="email-icon.png" alt="Email" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="linkedin-icon.png" alt="LinkedIn" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-reda-9a6767204/"><img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzGaHWPTCRN2DAX9wwrQ2Rw%3D%3D" alt="LinkedIn" width="30" height="30"></a>
   <a href="https://twitter.com/your-handle"><img src="twitter-icon.png" alt="Twitter" width="30" height="30"></a>
 </div>
 
