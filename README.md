@@ -43,19 +43,19 @@ Here are a few projects I've worked on:
 
 - 📚 [Student System Project](https://github.com/abdelrahman1532001/Mastering_Embedded_Systems/tree/master/First_Term/FinalProjects/CLanguage_FinalProject_StudentSys)
     - ⚙️ Tools: C language, Eclipse IDE
-    - 
+    
 - Smart Home (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32
-    - 
+     
 - Collosion-Avoidance Rc Car (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Ultrasonic, Motors
-    - 
+     
 - Line Follower (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, IR Sensors, Motors
-    - 
+    ------------------------------
 - Rc Car (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Bluetooth Module, Motors
-    - 
+     
 - 🤖 [6DOF ARM Robot](https://github.com/abdelrahman1532001/MU_RoboticsCourse/tree/main/IRB_1200_6DOF)
     - ⚙️ Tools: Matlap script, Robotic tool box library, SolidWorks 
 
