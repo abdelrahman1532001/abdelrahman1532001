@@ -52,7 +52,7 @@ Here are a few projects I've worked on:
 - Rc Car (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Bluetooth Module, Motors
 - 🤖 [6DOF ARM Robot](https://github.com/abdelrahman1532001/MU_RoboticsCourse/tree/main/IRB_1200_6DOF)
-    ⚙️ Tools: Matlap script, Robotic tool box library, SolidWorks 
+    - ⚙️ Tools: Matlap script, Robotic tool box library, SolidWorks 
 
 ## Contact Me
 
