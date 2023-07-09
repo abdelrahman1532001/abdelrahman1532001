@@ -34,7 +34,7 @@ My problem-solving mindset drives me to think critically and creatively about ho
 
 Here are a few projects I've worked on:
 
-- 📚 [Student System Project](https://github.com/your-username/student-system-repo)
+- 📚 [Student System Project]([https://github.com/your-username/student-system-repo](https://github.com/abdelrahman1532001/Mastering_Embedded_Systems/tree/master/First_Term/FinalProjects/CLanguage_FinalProject_StudentSys))
     - ⚙️ Tools: C language, Eclipse
 
 ## Contact Me
