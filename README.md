@@ -24,10 +24,17 @@ My problem-solving mindset drives me to think critically and creatively about ho
 
 ## Skills 🚀
 
-- 💻 C (Professional)
-- 🐍 Python (Basics)
-- 📊 MATLAB (Basics)
-- ⚙️ Microcontroller Driver Development (AVR)
+- **Progamming Language**👩‍💻
+    - 💻 C (Professional)
+    - 🐍 Python (Basics)
+- **Tools**🔧
+    - 📊 MATLAB (Basics)
+    - 🌐 Eclipse (Proffesional)
+    - 💻 Keil uVision (Basic)
+    - ⌨️ Git (Basic)
+- **Microcontroller**⚙️
+    - Arduino
+    - AVR32
 - 🤖 ChatGPT
 
 ## Big Projects 🚀
