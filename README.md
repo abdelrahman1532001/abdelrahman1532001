@@ -47,7 +47,7 @@ Here are a few projects I've worked on:
 ## Contact Me
 
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_200_200/0/1519856215226?e=1697068800&v=beta&t=AFr7femZMt4UlryopGFCobI8PrgDRTg7DO8Q9r33xkU" alt="Email" width="30" height="30"></a>
+  <a href="abdelrahman1532001@gmail.com"><img src="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_200_200/0/1519856215226?e=1697068800&v=beta&t=AFr7femZMt4UlryopGFCobI8PrgDRTg7DO8Q9r33xkU" alt="Email" width="30" height="30"></a>
   <a href="https://www.linkedin.com/in/abdelrahman-reda-9a6767204/"><img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1697068800&v=beta&t=7UYFEl3GlBZbMCyOybv_64a_83PvBQCC9HIPWQnwYyk" alt="LinkedIn" width="30" height="30"></a>
 </div>
 
