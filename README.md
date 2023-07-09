@@ -52,7 +52,7 @@ Here are a few projects I've worked on:
      
 - Line Follower (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, IR Sensors, Motors
-    ------------------------------
+
 - Rc Car (Lost)
     - ⚙️ Tools: C language, Eclipse IDE, AVR32, Bluetooth Module, Motors
      
