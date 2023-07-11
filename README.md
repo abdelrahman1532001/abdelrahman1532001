@@ -20,7 +20,10 @@ My problem-solving mindset drives me to think critically and creatively about ho
 - Bachelor's degree in Mechatronics, Mansoura University, Expected Graduation: [2024/2025]
 
 ## Skills 🚀
-
+- **Non-technical skills**👩‍💻
+    - Problem-solving: 🧩🔎
+    - Self-Learning: 📚🌟
+    - Collaboration: 🤝💪
 - **Progamming Language**👩‍💻
     - 💻 C (Professional)
     - 🐍 Python (Basics)
@@ -29,7 +32,8 @@ My problem-solving mindset drives me to think critically and creatively about ho
     - 🌐 Eclipse (Proffesional)
     - 💻 Keil uVision (Basic)
     - ⌨️ Git (Basic)
-    - Proteus
+    - Proteus (Professional)
+    - SolidWorks (Good)
 - **Microcontroller**⚙️
     - Arduino
     - AVR32
