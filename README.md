@@ -5,6 +5,7 @@
 </div>
 
 Hello there! 👋 I'm Abdelrahman Reda, a student studying Mechatronics at Mansoura University, expected to graduate 2024/2025.
+abdelrahman1532001@gmail.com
 
 ## About Me
 
