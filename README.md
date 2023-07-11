@@ -20,6 +20,10 @@ My problem-solving mindset drives me to think critically and creatively about ho
 
 - Bachelor's degree in Mechatronics, Mansoura University, Expected Graduation: [2024/2025]
 
+## Courses: 📚
+  - ITI one month (completed ✅)
+  - Mastering Embedded Diploma with Learn-In-Depth (In progress 🚀)
+
 ## Skills 🚀
 - **Non-technical skills**👩‍💻
     - Problem-solving: 🧩🔎
